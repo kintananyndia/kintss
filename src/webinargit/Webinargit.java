@@ -18,7 +18,7 @@ public class Webinargit {
         // TODO code application logic here
         System.out.println("hayy, ini kintss");
         System.out.println("hayy, ini kintss dengan branch1");
-        System.out.println("hayy, ini kintss masi sama branch1");
+        System.out.println("hayy, ini kintss dengan branch2");
     }
     
 }
