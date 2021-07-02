@@ -17,6 +17,7 @@ public class Webinargit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hayy, ini kintss");
+        System.out.println("hayy, ini kintss lagii");
     }
     
 }
